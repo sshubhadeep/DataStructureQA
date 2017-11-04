@@ -1,4 +1,4 @@
-package datastructure.tree.qa;
+package datastructure.tree.qa.levelordertraversal;
 
 /*Recursive Java program for level order traversal of Binary Tree method1
 

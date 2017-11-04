@@ -1,4 +1,4 @@
-package datastructure.tree.qa;
+package datastructure.tree.qa.levelordertraversal;
 
 import java.util.LinkedList;
 import java.util.Queue;
